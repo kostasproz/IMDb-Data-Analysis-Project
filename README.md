@@ -35,5 +35,3 @@ The project focuses on **data cleaning, exploratory analysis, feature engineerin
 - Genre diversity has expanded significantly in the last two decades.  
 
 ---
-
-## 📂 Project Structure  
